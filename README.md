@@ -6,8 +6,12 @@ A proposta introduz o conceito de Micro-MCPs efêmeros executados em runtimes de
 
 Documento
 Título: Z-MESH: uma proposta de arquitetura Zero Trust para Micro-MCPs efêmeros em runtimes de sandbox distribuídos
+Zenodo, v0.1, 2026.  
+DOI: [10.5281/zenodo.20600003](https://doi.org/10.5281/zenodo.20600003)
+
 Autor: Rodrigo Persiani Ciscom
 Colaborador: Rogerio Alves de Macedo
+
 Versão: v0.1
 Tipo: Position Paper / Proposta Arquitetural
 Status: Versão inicial para discussão técnica, validação experimental e colaboração acadêmica
