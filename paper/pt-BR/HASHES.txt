@@ -1,0 +1,13 @@
+Z-MESH Architecture — v0.1
+
+Title: Z-MESH: uma proposta de arquitetura Zero Trust para Micro-MCPs efêmeros em runtimes de sandbox distribuídos
+Author: Rodrigo Persiani Ciscom
+Collaborator: Rogerio Alves de Macedo
+Date: 2026-06-08
+Repository: z-mesh-architecture
+
+File: Z-MESH_v1_assinado.pdf
+SHA-256: 6CCBA87997DC2004A6A285B3A76772FF4D9A5CCCEF011F96CBFAF4B4CE5A9196
+
+File: ZMESH_08062026-v6.docx
+SHA-256: 9E5FF835CCA53D1487A69C6AB9CADC6861386D3C093842E3D07B65A7BC3B040A
